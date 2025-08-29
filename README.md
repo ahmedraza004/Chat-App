@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/f9b1da32-f1a7-406b-9344-eeb20878bbf0" />
+<img width="1361" height="634" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7e368d03-a82c-483c-916b-2f331d1c47f3" />
+
 # Real-Time Chat Application
 
 A real-time chat application built with **Django**, **Django Channels**, **WebSockets**, and **React**. This app supports user authentication, private messaging, and real-time updates.
